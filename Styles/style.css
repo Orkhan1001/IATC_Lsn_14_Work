@@ -51,6 +51,9 @@
     position: absolute;
     bottom: 20px;
 }
+.t_header_text .t_arrow:hover{
+    cursor: pointer;
+}
 .t_header_text .t_arrow span{
     display: flex;
     align-items: center;
